@@ -3,12 +3,12 @@ System Monitoring for FireFighter (GPS Tracker, Emergency, and Heart Rate)
 
 using ARDUINO IDE.
 
-include Library :
+# include Library 
 - ESP8266WiFi
 - FirebaseESP8266
 - TinyGPS++
 
-Device :
+# Device 
 - NodeMCU ESP8266
 - GPS U-blox NEO 6M
 - AD8232
